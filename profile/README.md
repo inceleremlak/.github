@@ -59,7 +59,7 @@ Adıyaman Merkez başta olmak üzere geniş bir bölgesel veritabanına ve aktif
 * **Emin Yılmaz** – Gayrimenkul Danışmanı *(Portföy & Kiralama Süreçleri)* 
 * **Ömer Öztürk** – Gayrimenkul Yatırım Danışmanı *(Portföy & Satış Süreçleri)*
 * **Mustafa İnce** – İdari İşler & Kurumsal İletişim *(Bakanlık Uyumluluğu & EİDS İdari Yönetimi)*
-* **Yusuf Salih Altun** – Teknik Koordinatör *(Yazılım Altyapısı, API & EİDS Entegrasyonu)*
+* **Yusuf Altun** – Teknik Koordinatör *(Yazılım Altyapısı, API & EİDS Entegrasyonu)*
 
 ---
 
