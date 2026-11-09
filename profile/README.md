@@ -4,6 +4,14 @@
     <img src="../assets/banners/banner.png" alt="İnceler Emlak Kurumsal Banner" width="100%" style="border-radius: 8px;" />
   </a>
 </div>
+<div align="center">
+  <a href="https://www.inceleremlak.com" target="_blank">
+    <img src="https://img.shields.io/badge/Web_Sitesi-www.inceleremlak.com-0056b3?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:info@inceleremlak.com">
+    <img src="https://img.shields.io/badge/E_Posta-info%40inceleremlak.com-d93025?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ## 🏢 Kurumsal Kimlik & Yasal Künye
 
