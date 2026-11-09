@@ -1,3 +1,9 @@
+<div align="center">
+  <!-- Tıklanabilir Kurumsal Banner Görseli -->
+  <a href="https://www.inceleremlak.com" target="_blank">
+    <img src="../assets/banners/banner.png" alt="İnceler Emlak Kurumsal Banner" width="100%" style="border-radius: 8px;" />
+  </a>
+</div>
 
 ## 🏢 Kurumsal Kimlik & Yasal Künye
 
