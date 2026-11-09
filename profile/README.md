@@ -29,7 +29,7 @@ Established in 1988, **İnceler Emlak®** is the leading real estate and propert
 
 * **Slogan:** *1988'den beri Dost ve Güvenilir Emlakçılığın Adresi*
 * **T.C. Ticaret Bakanlığı TTYB No:** 0200001
-* **TÜRKPATENT Marka Tescil No:** 2021/089859 & 2022/043398 (İnceler® & İnceler Emlak™)
+* **TÜRKPATENT Marka Tescil No:** 2021/089859 & 2022/043398 (İnceler® & İnceler Emlak®)
 * **Vergi Dairesi & VKN:** Adıyaman V.D. | 4760452008
 * **Merkez Ofis:** Turgut Reis Mah. Atatürk Blv. No: 241 (Opet Petrol İçi) / Merkez, Adıyaman
 
