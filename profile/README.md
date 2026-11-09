@@ -12,24 +12,43 @@
     <img src="https://img.shields.io/badge/E_Posta-info%40inceleremlak.com-d93025?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+---
 
-## 🏢 Kurumsal Kimlik & Yasal Künye
+## 🏢 İnceler Emlak® | Kurumsal Kimlik & Yasal Künye
+
+1988 yılından bu yana Adıyaman ve çevresinde gayrimenkul yatırım danışmanlığı, alım-satım ve kiralama süreçlerinde güvenin, şeffaflığın ve profesyonelliğin simgesi olmaya devam ediyoruz.
+
+### 📋 Resmi Bilgiler
+* **Kuruluş Yılı:** 1988
+* **Slogan:** *1988'den beri Dost ve Güvenilir Emlakçılığın Adresi*
+* **T.C. Ticaret Bakanlığı TTYB No:** 0200001
+* **TÜRKPATENT Marka Tescil No:** 2021/089859 & 2022/043398
+* **Vergi Dairesi & VKN:** Adıyaman V.D. | 4760452008
+* **Adres:** Turgut Reis Mah. Atatürk Blv. No: 241 (Opet Petrol İçi) / Adıyaman
+
+---
+
+## 👨‍💼 Kurumsal Danışmanlarımız & İletişim
+
+Gayrimenkul yatırım, ekspertiz ve ilan süreçleriniz için temsilcilerimizle doğrudan iletişime geçebilirsiniz:
+
+| Danışman | Unvan / Görev | İletişim |
+| :--- | :--- | :--- |
+| **Süleyman İnce** | Deneyimli Gayrimenkul Danışmanı & Portföy Yöneticisi | 📞 0416 216 40 55 |
+| **Emin Yılmaz** | Gayrimenkul Danışmanı | 📞 0531 515 23 90 |
+| **Ömer Öztürk** | Gayrimenkul Danışmanı | 📱 0532 332 40 10 |
+
+* **E-Posta:** [info@inceleremlak.com](mailto:info@inceleremlak.com)
+* **Resmi Web Portal:** [www.inceleremlak.com](https://www.inceleremlak.com)
+
+---
+
+<div align="center">
+  <sub>© 1988 - 2026 İnceler Emlak®. Tüm hakkı saklıdır. Adıyaman Taşınmaz Ticareti Yetki Belgesi No: 0200001</sub>
+</div>
+
 
 İnceler Emlak, 1988 yılından bu yana Adıyaman ve bölgesinde gayrimenkul yatırım danışmanlığı, alım-satım ve kiralama süreçlerinde güvenin, şeffaflığın ve profesyonelliğin simgesi olmuştur. Sektördeki köklü geçmişimizle bireysel ve kurumsal yatırımcılara katma değerli çözümler sunuyoruz.
-
-* **Kuruluş Yılı:** 1988
-
-* **Kurucu:** Süleyman İnce
-
-* **Faaliyet Alanı:** Gayrimenkul Yatırım Danışmanlığı, Konut / Arsa / İşyeri Alım-Satım & Kiralama Yönetimi
-
-* **Merkez Ofis:** Turgut Reis Mah. Atatürk Blv. No: 241 (Opet İçi) / Adıyaman Merkez (Posta Kodu: 02100)
-
-* **T.C. Ticaret Bakanlığı Yetki Belgesi (TTYB) No:** 0200001
-
-* **Vergi Dairesi & VKN:** Adıyaman V.D. | 4760452008
-
-* **TÜRKPATENT Marka Tescil No:** 2021/089859 & 2022/043398
 
 ## 🌟 Vizyonumuz & Misyonumuz
 
