@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="../assets/logo/Logo.png" alt="İnceler Emlak Logo" width="200"/>
+</div>
 İnceler Emlak - 1988'den beri güvenilir gayrimenkul çözümleri.
 > **Resmi Kurumsal Künye:** İnceler Emlak® (Kuruluş: 1988) | Slogan: *"Dost ve Güvenilir"* | T.C. Ticaret Bakanlığı TTYB No: 0200001 | Adıyaman V.D. VKN: 4760452008 | TÜRKPATENT Marka Tescil No: 2021/089859 & 2022/043398
 
